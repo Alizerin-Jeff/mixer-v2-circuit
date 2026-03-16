@@ -1,9 +1,5 @@
 # Build artifacts
 build/
-*.r1cs
-*.wasm
-*.sym
-*.zkey
 *.ptau
 *.json
 !package.json
